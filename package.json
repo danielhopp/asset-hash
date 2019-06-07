@@ -53,8 +53,5 @@
     "big.js": "^5.2.2",
     "core-js": "^3.0.1",
     "metrohash": "^2.6.0"
-  },
-  "optionalDependencies": {
-    "xxhash": "^0.2.4"
   }
 }
